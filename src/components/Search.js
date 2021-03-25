@@ -57,7 +57,7 @@ const Search = () => {
     <div>
       <div className="ui form">
         <div className="ui field">
-          <label>Enter Search Term</label>
+          <label><h4>Enter Search Term</h4></label>
           <input
             value={term}
             onChange={(e) => setTerm(e.target.value)}
