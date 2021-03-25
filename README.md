@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project comprises several widgets supporting functionality ranging from basic expandible accordion and dropdown pages, to a text search bar using [Wikipedia's search api](https://www.mediawiki.org/wiki/API:Search) and a text translation widget using [Google's translate api](https://cloud.google.com/translate/docs/reference/rest/v2/translate).  These different widgets are connected with a navigation menu and supporting router.  We leverage [Semantic UI's](https://semantic-ui.com/) free stylesheet for styling our app (stylesheet href link included in index.html) - this saves time and ensures the project's primary focus is practicing React JS concepts.
+This project comprises several widgets supporting functionality ranging from basic expandible accordion and dropdown functionality, to a text search bar using [Wikipedia's search api](https://www.mediawiki.org/wiki/API:Search) and a text translation widget using [Google's translate api](https://cloud.google.com/translate/docs/reference/rest/v2/translate).  These different widgets are connected with a navigation menu and supporting router.  We leverage [Semantic UI's](https://semantic-ui.com/) free stylesheet for styling our app (stylesheet href link included in index.html) - this saves time and ensures the project's primary focus is practicing React JS concepts.
 
 This project is one of the practice exercises for Stephen Grider's Udemy course, [Modern React with Redux](https://www.udemy.com/course/react-redux/).  The project helps practice using core React JS concepts including the following: (with emphasis on concepts 12 & 13) 
 
