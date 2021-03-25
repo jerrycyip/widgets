@@ -20,7 +20,7 @@ This project is one of the practice exercises for Stephen Grider's Udemy course,
 13) Navigation From Scratch
 
 ## Result - Demo
-![Search Pics App](videos-demo.gif)
+![Widgets App](widgets-demo.gif)
 
 
 ## Setting up the APIs
