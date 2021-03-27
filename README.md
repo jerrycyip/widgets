@@ -1,4 +1,6 @@
-# Project Description
+#Widgets App
+
+## Project Description
 
 This project comprises several widgets supporting functionality ranging from basic expandable accordion and dropdown functionality, to a text search bar using [Wikipedia's search api](https://www.mediawiki.org/wiki/API:Search) and a text translation widget using [Google's translate api](https://cloud.google.com/translate/docs/reference/rest/v2/translate).  These different widgets are connected with a navigation menu and supporting router.  We leverage [Semantic UI's](https://semantic-ui.com/) free stylesheet for styling our app (stylesheet href link included in index.html) - this saves time and ensures the project's primary focus is practicing React JS concepts.
 
