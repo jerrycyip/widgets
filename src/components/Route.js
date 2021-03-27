@@ -15,7 +15,7 @@ const Route = ({path, children}) => {
         };
     }, []);
 
-    return currentPath == path
+    return currentPath === path
     ? children
     : null;
 };
