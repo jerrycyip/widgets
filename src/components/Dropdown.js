@@ -12,11 +12,11 @@ const Dropdown = ({ label, options, selected, onSelectedChange }) => {
             
             setOpen(false);
         };
-        // not needed if return statement included: capture: true
-        document.body.addEventListener('click', onBodyClick/*, { capture: true }*/);
+        // not necessarily needed if return statement included: capture: true
+        document.body.addEventListener('click', onBodyClick, { capture: true });
 
         return () => {
-            document.body.removeEventListener('click', onBodyClick);
+            document.body.removeEventListener('click', onBodyClick, { capture: true });
         };
     },[]);
 
