@@ -4,7 +4,7 @@
 
 This project comprises several widgets supporting different functionality including a basic expandable accordion, a dropdown color picker, a text search bar using [Wikipedia's search api](https://www.mediawiki.org/wiki/API:Search), and a text translation widget using [Google's translate api](https://cloud.google.com/translate/docs/reference/rest/v2/translate).  These different widgets are connected with a navigation menu and supporting router.  We leverage [Semantic UI's](https://semantic-ui.com/) free stylesheet for styling our app (stylesheet href link included in index.html) - this saves time and ensures the project's primary focus is practicing React JS concepts.
 
-This app is one of the practice projects for Stephen Grider's Udemy course, [Modern React with Redux](https://www.udemy.com/course/react-redux/).  The project helps practice using core React JS concepts including the following: (with emphasis on concepts 12 & 13) 
+This app is one of the practice projects for Stephen Grider's Udemy course, [Modern React with Redux](https://www.udemy.com/course/react-redux/).  The project helps practice using core React JS concepts including the following: (with emphasis on concepts 11 & 12) 
 
 1) Building Content with JSX
 2) Communicating with Props
@@ -15,10 +15,9 @@ This app is one of the practice projects for Stephen Grider's Udemy course, [Mod
 7) Making API Requests with React
 8) Building Lists of Records
 9) Using Ref's for DOM Access
-10) Using Ref's for DOM Access
-11) Testing React Mastery (thus far)
-12) Understanding Hooks in React
-13) Navigation From Scratch
+10) Testing React Mastery (thus far)
+11) Understanding Hooks in React
+12) Navigation From Scratch
 
 ## Result - Demo
 This app is also publicly hosted [here](https://tender-benz-2c09c0.netlify.app/)
